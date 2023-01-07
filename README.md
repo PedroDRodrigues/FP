@@ -1,2 +1,2 @@
 # FP
-Some projects to introduce and learn Python.
+First project to introduce and learn Python language.
